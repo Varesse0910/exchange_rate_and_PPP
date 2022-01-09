@@ -1,0 +1,13 @@
+name: R_project
+title: R_project
+username:
+account: cis02j-varesse-souop
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5055404
+bundleId: 5218925
+url: https://cis02j-varesse-souop.shinyapps.io/R_project/
+when: 1636140572.40292
+lastSyncTime: 1636140572.40292
+asMultiple: FALSE
+asStatic: FALSE
